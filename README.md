@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## I'm a Student, Developer, and Avid Learner!
 - 🔭 I’m currently working on my portfolio. Stay Tuned!
 - 🌱 I’m currently learning React
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to cook!
 
 ### Connect with me:
