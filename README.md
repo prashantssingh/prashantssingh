@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**prashantssingh/prashantssingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there, I'm Prashant 👋
 
 ## I'm a Student, Developer, and Avid Learner!
@@ -21,6 +5,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to cook!
+- 📫 How to reach me: prashant_singh@live.in
 
 ### Connect with me:
 
