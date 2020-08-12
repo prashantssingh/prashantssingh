@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I love to cook!
 - 📫 How to reach me: prashant_singh@live.in
 
-<br />
 
 ### Languages and Tools:
 
