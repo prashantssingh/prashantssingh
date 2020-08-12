@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
@@ -51,7 +50,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Prashant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashantssingh&show_icons=true&hide_border=true" />
 
 [website]: https://prashantsingh.dev
 [twitter]: https://twitter.com/porcupinehead__
