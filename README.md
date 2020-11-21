@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashant 👋
 
-## I'm a Student, Developer, and Avid Learner!
+## I'm a Student, Developer, and an Avid Learner!
 - 🔭 I’m currently working on my portfolio. Stay Tuned!
 - 🌱 I’m currently learning React
 - 🥅 2020 Goals: Well, just let it RIP!
