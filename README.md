@@ -3,7 +3,7 @@
 ## I'm a Software Engineer, and an Avid Learner!
 - 🔭 I’m currently working on my portfolio. Stay Tuned!
 - 🌱 I’m currently learning React
-- 🥅 2022 Goals: **More exposure to Design Distributed Systems**
+- 🥅 2022 Goals: **Learn more about System Design**
 - ⚡ Fun fact: I love to cook!
 - 📫 How to reach me: **prashant_singh@live.in**
 
