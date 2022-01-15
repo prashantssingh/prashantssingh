@@ -43,6 +43,8 @@
 
 <img align="left" alt="Prashant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashantssingh&show_icons=true&hide_border=true" />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prashantssingh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DD2727)](https://git.io/streak-stats)
+
 [website]: https://prashantsingh.dev
 [twitter]: https://twitter.com/porcupinehead__
 [linkedin]: https://www.linkedin.com/in/prashantssingh-lin/
