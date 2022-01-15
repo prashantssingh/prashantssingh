@@ -35,14 +35,12 @@
 [<img align="left" alt="prashantssingh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="prashantssingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
 <br />
 <br />
 
 --- 
 
 <img align="left" alt="Prashant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashantssingh&show_icons=true&hide_border=true" />
-<br />
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prashantssingh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DD2727)](https://git.io/streak-stats)
 
