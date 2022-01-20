@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer, and an Avid Learner!
 - 🔭 I’m currently working on my portfolio. Stay Tuned!
-- 🌱 I’m currently learning React and Microservices
+- 🌱 I’m currently learning React and Microservices Architecture
 - 🥅 2022 Goals: **Dive deeper into System Design**
 - ⚡ Fun fact: I love to cook!
 - 📫 How to reach me: **prashant_singh@live.in**
